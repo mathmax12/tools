@@ -1,0 +1,9 @@
+Git clone a project from the gitlab/hub.  
+cd to the project.  
+1. upload something  
+git add.  
+git commit -m "bala"  
+git push  
+  
+2. pull  
+git pull  
